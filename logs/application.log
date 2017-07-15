@@ -1,0 +1,33 @@
+2017-07-15 06:21:00,607 [INFO] from play.api.http.EnabledFilters in scala-execution-context-global-59 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.headers.SecurityHeadersFilter
+
+2017-07-15 06:21:00,764 [INFO] from play.api.Play in scala-execution-context-global-59 - Application started (Dev)
+2017-07-15 06:24:09,940 [INFO] from play.api.http.EnabledFilters in scala-execution-context-global-104 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.headers.SecurityHeadersFilter
+
+2017-07-15 06:24:09,954 [INFO] from play.api.Play in scala-execution-context-global-104 - Application started (Dev)
+2017-07-15 07:10:11,162 [INFO] from play.api.http.EnabledFilters in scala-execution-context-global-188 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.headers.SecurityHeadersFilter
+
+2017-07-15 07:10:11,168 [INFO] from play.api.Play in scala-execution-context-global-188 - Application started (Dev)
+2017-07-15 07:11:32,080 [INFO] from play.api.http.EnabledFilters in scala-execution-context-global-222 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.headers.SecurityHeadersFilter
+
+2017-07-15 07:11:32,095 [INFO] from play.api.Play in scala-execution-context-global-222 - Application started (Dev)
+2017-07-15 07:11:45,012 [INFO] from play.core.server.AkkaHttpServer in pool-4-thread-2 - Stopping server...
